@@ -48,7 +48,7 @@ logo {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    align-items: center;
+    align-items: left;
     gap: 20px;
     padding: 20px;
 }
